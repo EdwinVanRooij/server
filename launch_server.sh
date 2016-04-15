@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export CLASSPATH=".:../Source/libs/*" 
+export CLASSPATH=".:jar/*" 
 
 java -Dwzpath=wz/ \
 -Xmx800m net.server.Server
