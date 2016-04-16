@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="203e6e80-6fec-42ef-b2b4-b6f8d08d3ab9" name="Default" comment="" />
+    <list default="true" id="203e6e80-6fec-42ef-b2b4-b6f8d08d3ab9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../source/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../source/.idea/workspace.xml" />
+    </list>
     <ignored path="MapleSolaxia Release.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,100 +29,7 @@
     <favorites_list name="MapleSolaxia Release" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ExpTable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/constants/ExpTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Commands.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/client/command/Commands.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-              <folding>
-                <marker date="1432914918343" expanded="true" signature="15070:15119" placeholder="SELECT * FRO... drop_data" />
-                <marker date="1432914918343" expanded="true" signature="21697:21919" placeholder="SELECT `char... characters" />
-                <marker date="1432914918343" expanded="true" signature="49147:49190" placeholder="UPDATE accou... " />
-                <marker date="1432914918343" expanded="true" signature="50119:50157" placeholder="INSERT INTO ipbans... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapleCharacter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/client/MapleCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="153" column="21" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
-              <folding>
-                <marker date="1433081575484" expanded="true" signature="19485:19543" placeholder="UPDATE accou... " />
-                <marker date="1433081575484" expanded="true" signature="20040:20078" placeholder="INSERT INTO ipbans... " />
-                <marker date="1433081575484" expanded="true" signature="20298:20336" placeholder="SELECT id FR... accounts" />
-                <marker date="1433081575484" expanded="true" signature="20404:20451" placeholder="SELECT accou... characters" />
-                <marker date="1433081575484" expanded="true" signature="20678:20736" placeholder="UPDATE accou... " />
-                <marker date="1433081575484" expanded="true" signature="42061:42117" placeholder="DELETE FROM " />
-                <marker date="1433081575484" expanded="true" signature="45972:46038" placeholder="UPDATE chara... " />
-                <marker date="1433081575484" expanded="true" signature="46189:46225" placeholder="DELETE FROM " />
-                <marker date="1433081575484" expanded="true" signature="63132:63199" placeholder="SELECT `id`,... characters" />
-                <marker date="1433081575484" expanded="true" signature="68812:68852" placeholder="SELECT id FR... characters" />
-                <marker date="1433081575484" expanded="true" signature="69465:69505" placeholder="SELECT name characters" />
-                <marker date="1433081575484" expanded="true" signature="84771:84834" placeholder="INSERT INTO famelog... " />
-                <marker date="1433081575484" expanded="true" signature="99185:99222" placeholder="SELECT * FRO... characters" />
-                <marker date="1433081575484" expanded="true" signature="105895:105962" placeholder="SELECT mapid... trocklocations" />
-                <marker date="1433081575484" expanded="true" signature="106698:106736" placeholder="SELECT name accounts" />
-                <marker date="1433081575484" expanded="true" signature="107050:107102" placeholder="SELECT `area... area_info" />
-                <marker date="1433081575484" expanded="true" signature="107387:107445" placeholder="SELECT `name... eventstats" />
-                <marker date="1433081575484" expanded="true" signature="108178:108272" placeholder="SELECT name,... characters" />
-                <marker date="1433081575484" expanded="true" signature="108663:108710" placeholder="SELECT * FRO... queststatus" />
-                <marker date="1433081575484" expanded="true" signature="108898:108949" placeholder="SELECT * FRO... questprogress" />
-                <marker date="1433081575484" expanded="true" signature="109003:109054" placeholder="SELECT mapid... medalmaps" />
-                <marker date="1433081575484" expanded="true" signature="110511:110593" placeholder="SELECT skill... skills" />
-                <marker date="1433081575484" expanded="true" signature="111003:111066" placeholder="SELECT Skill... cooldowns" />
-                <marker date="1433081575484" expanded="true" signature="111689:111727" placeholder="DELETE FROM " />
-                <marker date="1433081575484" expanded="true" signature="111881:111928" placeholder="SELECT * FRO... skillmacros" />
-                <marker date="1433081575484" expanded="true" signature="112446:112508" placeholder="SELECT `key`... keymap" />
-                <marker date="1433081575484" expanded="true" signature="112988:113066" placeholder="SELECT `loca... savedlocations" />
-                <marker date="1433081575484" expanded="true" signature="113467:113564" placeholder="SELECT `char... famelog" />
-                <marker date="1433081575484" expanded="true" signature="118196:118240" placeholder="SELECT id FR... playernpcs" />
-                <marker date="1433081575484" expanded="true" signature="118427:118557" placeholder="INSERT INTO playernpcs... " />
-                <marker date="1433081575484" expanded="true" signature="119368:119440" placeholder="INSERT INTO playernpcs_equip... " />
-                <marker date="1433081575484" expanded="true" signature="120052:120095" placeholder="SELECT * FRO... playernpcs" />
-                <marker date="1433081575484" expanded="true" signature="137408:137486" placeholder="INSERT INTO cooldowns... " />
-                <marker date="1433081575484" expanded="true" signature="138117:138196" placeholder="UPDATE chara... " />
-                <marker date="1433081575484" expanded="true" signature="139038:139226" placeholder="INSERT INTO characters... " />
-                <marker date="1433081575484" expanded="true" signature="140522:140599" placeholder="INSERT INTO keymap... " />
-                <marker date="1433081575484" expanded="true" signature="142607:143313" placeholder="UPDATE chara... " />
-                <marker date="1433081575484" expanded="true" signature="147325:147402" placeholder="INSERT INTO keymap... " />
-                <marker date="1433081575484" expanded="true" signature="147914:148027" placeholder="INSERT INTO skillmacros... " />
-                <marker date="1433081575484" expanded="true" signature="149078:149179" placeholder="INSERT INTO skills... " />
-                <marker date="1433081575484" expanded="true" signature="149724:149817" placeholder="INSERT INTO savedlocations... " />
-                <marker date="1433081575484" expanded="true" signature="150485:150553" placeholder="INSERT INTO trocklocations... " />
-                <marker date="1433081575484" expanded="true" signature="150897:150965" placeholder="INSERT INTO trocklocations... " />
-                <marker date="1433081575484" expanded="true" signature="151420:151504" placeholder="INSERT INTO buddies... " />
-                <marker date="1433081575484" expanded="true" signature="151978:152050" placeholder="INSERT INTO area_info... " />
-                <marker date="1433081575484" expanded="true" signature="152542:152670" placeholder="INSERT INTO queststatus... " />
-                <marker date="1433081575484" expanded="true" signature="152805:152856" placeholder="INSERT INTO questprogress... " />
-                <marker date="1433081575484" expanded="true" signature="152906:152950" placeholder="INSERT INTO medalmaps... " />
-                <marker date="1433081575484" expanded="true" signature="154211:154250" placeholder="UPDATE accou... " />
-                <marker date="1433081575484" expanded="true" signature="157133:157220" placeholder="INSERT INTO notes... " />
-                <marker date="1433081575484" expanded="true" signature="162482:162532" placeholder="UPDATE chara... " />
-                <marker date="1433081575484" expanded="true" signature="162928:162980" placeholder="UPDATE chara... " />
-                <marker date="1433081575484" expanded="true" signature="163404:163456" placeholder="UPDATE chara... " />
-                <marker date="1433081575484" expanded="true" signature="167818:167867" placeholder="UPDATE `char... " />
-                <marker date="1433081575484" expanded="true" signature="171431:171481" placeholder="SELECT * FRO... notes" />
-                <marker date="1433081575484" expanded="true" signature="182415:182487" placeholder="UPDATE accou... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -194,91 +103,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane />
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapleSolaxia Release" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapleSolaxia Release" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dropspider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapleSolaxia Release" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="constants" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapleSolaxia Release" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapleSolaxia Release" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="command" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../source" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.16015625" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -701,11 +539,12 @@
       <workItem from="1460745862291" duration="565000" />
       <workItem from="1460746486806" duration="2243000" />
       <workItem from="1460751274813" duration="208000" />
+      <workItem from="1460807134532" duration="864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3016000" />
+    <option name="totallyTimeSpent" value="3880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -717,9 +556,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20654628" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12660944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -756,14 +595,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/constants/ExpTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/command/Commands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/MapleCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/server/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2090">
           <caret line="166" column="48" selection-start-line="166" selection-start-column="48" selection-end-line="166" selection-end-column="48" />
-          <folding>
-            <marker date="1432971973468" expanded="true" signature="4844:4876" placeholder="UPDATE accou... " />
-            <marker date="1432971973468" expanded="true" signature="4973:5010" placeholder="UPDATE chara... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2684">
           <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,10 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2948">
           <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
-          <folding>
-            <marker date="1432971973468" expanded="true" signature="4844:4876" placeholder="UPDATE accou... " />
-            <marker date="1432971973468" expanded="true" signature="4973:5010" placeholder="UPDATE chara... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -837,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -847,7 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-44">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,10 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="166" column="48" selection-start-line="166" selection-start-column="48" selection-end-line="166" selection-end-column="48" />
-          <folding>
-            <marker date="1432971973468" expanded="true" signature="4844:4876" placeholder="UPDATE accou... " />
-            <marker date="1432971973468" expanded="true" signature="4973:5010" placeholder="UPDATE chara... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -881,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
           <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -889,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -897,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -905,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-374">
           <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-77">
           <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,14 +756,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-143">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/constants/ExpTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="308">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/MapleCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="153" column="21" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -937,77 +779,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding>
-            <marker date="1432914918343" expanded="true" signature="15070:15119" placeholder="SELECT * FRO... drop_data" />
-            <marker date="1432914918343" expanded="true" signature="21697:21919" placeholder="SELECT `char... characters" />
-            <marker date="1432914918343" expanded="true" signature="49147:49190" placeholder="UPDATE accou... " />
-            <marker date="1432914918343" expanded="true" signature="50119:50157" placeholder="INSERT INTO ipbans... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/client/MapleCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="153" column="21" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
-          <folding>
-            <marker date="1433081575484" expanded="true" signature="19485:19543" placeholder="UPDATE accou... " />
-            <marker date="1433081575484" expanded="true" signature="20040:20078" placeholder="INSERT INTO ipbans... " />
-            <marker date="1433081575484" expanded="true" signature="20298:20336" placeholder="SELECT id FR... accounts" />
-            <marker date="1433081575484" expanded="true" signature="20404:20451" placeholder="SELECT accou... characters" />
-            <marker date="1433081575484" expanded="true" signature="20678:20736" placeholder="UPDATE accou... " />
-            <marker date="1433081575484" expanded="true" signature="42061:42117" placeholder="DELETE FROM " />
-            <marker date="1433081575484" expanded="true" signature="45972:46038" placeholder="UPDATE chara... " />
-            <marker date="1433081575484" expanded="true" signature="46189:46225" placeholder="DELETE FROM " />
-            <marker date="1433081575484" expanded="true" signature="63132:63199" placeholder="SELECT `id`,... characters" />
-            <marker date="1433081575484" expanded="true" signature="68812:68852" placeholder="SELECT id FR... characters" />
-            <marker date="1433081575484" expanded="true" signature="69465:69505" placeholder="SELECT name characters" />
-            <marker date="1433081575484" expanded="true" signature="84771:84834" placeholder="INSERT INTO famelog... " />
-            <marker date="1433081575484" expanded="true" signature="99185:99222" placeholder="SELECT * FRO... characters" />
-            <marker date="1433081575484" expanded="true" signature="105895:105962" placeholder="SELECT mapid... trocklocations" />
-            <marker date="1433081575484" expanded="true" signature="106698:106736" placeholder="SELECT name accounts" />
-            <marker date="1433081575484" expanded="true" signature="107050:107102" placeholder="SELECT `area... area_info" />
-            <marker date="1433081575484" expanded="true" signature="107387:107445" placeholder="SELECT `name... eventstats" />
-            <marker date="1433081575484" expanded="true" signature="108178:108272" placeholder="SELECT name,... characters" />
-            <marker date="1433081575484" expanded="true" signature="108663:108710" placeholder="SELECT * FRO... queststatus" />
-            <marker date="1433081575484" expanded="true" signature="108898:108949" placeholder="SELECT * FRO... questprogress" />
-            <marker date="1433081575484" expanded="true" signature="109003:109054" placeholder="SELECT mapid... medalmaps" />
-            <marker date="1433081575484" expanded="true" signature="110511:110593" placeholder="SELECT skill... skills" />
-            <marker date="1433081575484" expanded="true" signature="111003:111066" placeholder="SELECT Skill... cooldowns" />
-            <marker date="1433081575484" expanded="true" signature="111689:111727" placeholder="DELETE FROM " />
-            <marker date="1433081575484" expanded="true" signature="111881:111928" placeholder="SELECT * FRO... skillmacros" />
-            <marker date="1433081575484" expanded="true" signature="112446:112508" placeholder="SELECT `key`... keymap" />
-            <marker date="1433081575484" expanded="true" signature="112988:113066" placeholder="SELECT `loca... savedlocations" />
-            <marker date="1433081575484" expanded="true" signature="113467:113564" placeholder="SELECT `char... famelog" />
-            <marker date="1433081575484" expanded="true" signature="118196:118240" placeholder="SELECT id FR... playernpcs" />
-            <marker date="1433081575484" expanded="true" signature="118427:118557" placeholder="INSERT INTO playernpcs... " />
-            <marker date="1433081575484" expanded="true" signature="119368:119440" placeholder="INSERT INTO playernpcs_equip... " />
-            <marker date="1433081575484" expanded="true" signature="120052:120095" placeholder="SELECT * FRO... playernpcs" />
-            <marker date="1433081575484" expanded="true" signature="137408:137486" placeholder="INSERT INTO cooldowns... " />
-            <marker date="1433081575484" expanded="true" signature="138117:138196" placeholder="UPDATE chara... " />
-            <marker date="1433081575484" expanded="true" signature="139038:139226" placeholder="INSERT INTO characters... " />
-            <marker date="1433081575484" expanded="true" signature="140522:140599" placeholder="INSERT INTO keymap... " />
-            <marker date="1433081575484" expanded="true" signature="142607:143313" placeholder="UPDATE chara... " />
-            <marker date="1433081575484" expanded="true" signature="147325:147402" placeholder="INSERT INTO keymap... " />
-            <marker date="1433081575484" expanded="true" signature="147914:148027" placeholder="INSERT INTO skillmacros... " />
-            <marker date="1433081575484" expanded="true" signature="149078:149179" placeholder="INSERT INTO skills... " />
-            <marker date="1433081575484" expanded="true" signature="149724:149817" placeholder="INSERT INTO savedlocations... " />
-            <marker date="1433081575484" expanded="true" signature="150485:150553" placeholder="INSERT INTO trocklocations... " />
-            <marker date="1433081575484" expanded="true" signature="150897:150965" placeholder="INSERT INTO trocklocations... " />
-            <marker date="1433081575484" expanded="true" signature="151420:151504" placeholder="INSERT INTO buddies... " />
-            <marker date="1433081575484" expanded="true" signature="151978:152050" placeholder="INSERT INTO area_info... " />
-            <marker date="1433081575484" expanded="true" signature="152542:152670" placeholder="INSERT INTO queststatus... " />
-            <marker date="1433081575484" expanded="true" signature="152805:152856" placeholder="INSERT INTO questprogress... " />
-            <marker date="1433081575484" expanded="true" signature="152906:152950" placeholder="INSERT INTO medalmaps... " />
-            <marker date="1433081575484" expanded="true" signature="154211:154250" placeholder="UPDATE accou... " />
-            <marker date="1433081575484" expanded="true" signature="157133:157220" placeholder="INSERT INTO notes... " />
-            <marker date="1433081575484" expanded="true" signature="162482:162532" placeholder="UPDATE chara... " />
-            <marker date="1433081575484" expanded="true" signature="162928:162980" placeholder="UPDATE chara... " />
-            <marker date="1433081575484" expanded="true" signature="163404:163456" placeholder="UPDATE chara... " />
-            <marker date="1433081575484" expanded="true" signature="167818:167867" placeholder="UPDATE `char... " />
-            <marker date="1433081575484" expanded="true" signature="171431:171481" placeholder="SELECT * FRO... notes" />
-            <marker date="1433081575484" expanded="true" signature="182415:182487" placeholder="UPDATE accou... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
