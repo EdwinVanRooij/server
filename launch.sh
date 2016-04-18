@@ -4,3 +4,4 @@
 export CLASSPATH=".:*"
 java -Dwzpath=wz/ \
 -Xmx800m net.server.Server
+pause
