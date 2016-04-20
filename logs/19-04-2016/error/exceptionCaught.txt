@@ -1,0 +1,19 @@
+java.lang.NullPointerException
+	at provider.MapleDataTool.getInt(MapleDataTool.java:96)
+	at server.MapleItemInformationProvider.getWatkForProjectile(MapleItemInformationProvider.java:763)
+	at client.MapleCharacter.recalcLocalStats(MapleCharacter.java:3464)
+	at client.MapleCharacter.cancelPlayerBuffs(MapleCharacter.java:816)
+	at client.MapleCharacter.cancelEffect(MapleCharacter.java:746)
+	at client.MapleCharacter.deregisterBuffStats(MapleCharacter.java:1279)
+	at client.MapleCharacter.cancelEffect(MapleCharacter.java:706)
+	at server.MapleStatEffect$CancelEffectAction.run(MapleStatEffect.java:1367)
+	at server.TimerManager$LoggingSaveRunnable.run(TimerManager.java:143)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+---------------------------------
