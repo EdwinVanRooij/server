@@ -1,2 +1,0 @@
-Wipe all of these tables for a fresh setup.
-
