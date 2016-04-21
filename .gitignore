@@ -1,0 +1,4 @@
+logs/
+sql/*.sql
+*.lnk
+configuration.ini

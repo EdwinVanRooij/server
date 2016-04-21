@@ -1,0 +1,8 @@
+These database tables are not initially set by creating the database. This means that the content of these tables can be deleted while wiping the server. The server should function correctly after deleting all rows of the next tables:
+
+bit_* (all bit-prefixed tables BUT bit_properties)
+accounts
+alliance
+buddies
+characters
+cooldowns
